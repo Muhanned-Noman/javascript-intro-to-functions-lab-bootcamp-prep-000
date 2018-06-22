@@ -13,7 +13,8 @@ function sayHiToGrandma(string){
   }else if(string ==="hello"){
     string="I can't hear you!"
     return string
-  }else if(string ==="I love you, Grandma.")
+  }else if(string ==="I love you, Grandma."){
   string = "I love you, too." 
   return string
+  }
 }

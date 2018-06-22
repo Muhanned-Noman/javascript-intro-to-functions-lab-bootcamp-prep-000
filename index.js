@@ -8,7 +8,7 @@ function whisper(string){
 }
 function sayHiToGrandma(string){
   if(string ==="HELLO"){
-    string=""
+    string="YES INDEED!"
     return string
-  }
+  }else if(string ==="")
 }
